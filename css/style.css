@@ -1,0 +1,89 @@
+/*================================================================================HARMEL TSHABULANDA NGONGO====================================*/
+* { padding:0; margin:0; outline:0; }
+body {
+	background:#fff;
+	font-family: Arial, sans-serif;
+	font-size:12px;
+	line-height:17px;
+	color:#0000;
+	text-align:center;
+}
+.container {
+    padding: 16px;
+}
+.merhames{ 
+     float:center; 
+	 border:dashed 1px #cfcfcf; 
+	 width:97%; 
+	 margin:0 18px 12px 0; 
+	 padding:13px; 
+}
+/*================================================================================HARMEL TSHABULANDA NGONGO====================================*/
+.pata{ 
+     float:center; 
+	 border:dashed 1px #cfcfcf; 
+	 width:50%; 
+	 margin:0 18px 12px 0; 
+	 padding:13px; 
+}
+
+.body_resize{
+	margin:auto;
+	padding:10px;
+	height: 100px;
+}
+.panel_body{
+	margin-top:-5px;
+	height: 100px;
+	width: auto;
+}
+  .jumbotron {
+      background-color: #ffd900;
+      color: #fff;
+      padding: 100px 25px;
+  }
+  .container-fluid {
+      padding: 30px 20px;
+  }
+  .bg-grey {
+      background-color: #FCF6F6;
+  }
+  .logo-small {
+      color: #f4511e;
+      font-size: 50px;
+  }
+  .logo {
+      font-size: 200px;
+	  color: #ffd900;
+  }
+  
+a img { border:0; }
+
+a { color:#890000; text-decoration: none; cursor:pointer; }
+a:hover { color:#333; }
+
+.left, .alignleft { float:left; display:inline; }
+.right, .alignright { float:right; display:inline; }
+
+.cl { font-size:0; line-height:0; clear:both; display:block; height:0; }
+
+.al { text-align: left; }
+.ar { text-align: right; }
+.ac { text-align: center; }
+
+h3 { font-size:15px; line-height:18px; color:#bcbcbc; text-transform: uppercase; }
+
+.shell { width:980px; margin:0 auto; }
+
+#top { height:479px; background:#f4511e; }
+#main { width:100%; background:url(images/main.gif) repeat-x 0 0;}
+
+
+#footer { border-top:dashed 1px #cfcfcf; margin-top:20px; padding:10px 0; color:#8e8e8e;}
+#footer a{ color:#8e8e8e; }
+#footer a:hover{ color:#9d0000; }
+#footer span{ padding:0 5px;}
+
+.tab-content { display:none;}
+
+.tabbed { min-height:420px;}
